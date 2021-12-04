@@ -18,7 +18,7 @@ def cria_posicao(x, y):
     gerando um ValueError caso os mesmos não sejam válidos.
     '''    
     if type(x) != int or type(y) != int or x < 0 or y < 0:
-        raise ValueError('cria_posicao: argumentos invalidos')    
+        raise ValueError('Escreve essa merda bem. Caralho')    
     return (x, y)
 
 
