@@ -1,5 +1,4 @@
-# Projeto 2 - O Prado
-# Nuno Gonçalves - nunomrgoncalves@tecnico.ulisboa.pt (ist1103392) - 19/11/2021
+# Project 2 - The Meadow
 
 ################################# TAD posicao #################################
 # Representação: R[(x, y)] = (x, y)
